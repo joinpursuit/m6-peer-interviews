@@ -6,6 +6,14 @@ Pairings should be made such that each pair can give a previously unseen challen
 
 The goal isn't to successfully complete the challenges. The goal is to improve being able to solve problems that have never been seen before by your partner. This is the better preparation for real world interview situations. Therefore, sharing the challenges would diminish the purpose of this practice and is strongly discouraged.
 
+Your instructor will give you access to either
+
+[This set](https://github.com/joinpursuit/peer-mi-group-a)
+
+or
+
+[That set](https://github.com/joinpursuit/peer-mi-group-b)
+
 ## Instructions
 
 ### Google Form
